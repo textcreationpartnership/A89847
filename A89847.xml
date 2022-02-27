@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Nailor's recantation, penned, and directed by himself, to all the people of the Lord, gathered and scattered. And may most fitly serve as an antidote against the infectious poyson of damnable heresies, although couched under the most specious vails of pretended sanctity.</title>
+            <title>To all the people of the Lord, every where, gathered or scattered.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89847</idno>
+            <idno type="STC">Wing N307</idno>
+            <idno type="STC">Thomason E989_10</idno>
+            <idno type="STC">ESTC R37640</idno>
+            <idno type="EEBO-CITATION">99872487</idno>
+            <idno type="PROQUEST">99872487</idno>
+            <idno type="VID">168646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168646)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E989[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>James Nailor's recantation, penned, and directed by himself, to all the people of the Lord, gathered and scattered. And may most fitly serve as an antidote against the infectious poyson of damnable heresies, although couched under the most specious vails of pretended sanctity.</title>
+                  <title>To all the people of the Lord, every where, gathered or scattered.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Farnham and are to be sold at his shop in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also published in the same year as: To all the people of the Lord, every where, gathered or scattered.</note>
+                  <note>Annotation on Thomason copy: "July 7.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges --  Early works to 1800.</term>
+               <term>Conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168646:1" rendition="simple:additions"/>
+            <p>James Nailors RECANTATION, Penned, and directed by Him<g ref="char:EOLhyphen"/>ſelf, to all the People of the LORD, Gathered and Scattered.</p>
+            <p>And may moſt fitly ſerve as an <hi>Antidote</hi> againſt the Infectious Poyſon OF Damnable Hereſies, Although couched under the moſt Specious Vails of <hi>Pretended Sanctity.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Farnham</hi> and are to be ſold at his Shop in <hi>Popes-head-Alley,</hi> 1659. <add>July .7.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168646:2"/>
+            <pb n="1" facs="tcp:168646:2"/>
+            <head>TO ALL THE People of the LORD, Gathered or Scattered.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the fear of God, and love to his Truth, and People, do I declare, in the Spirit of Meekneſſe, what hath long oppreſſed my Soul, concerning thoſe Unclean Spirits gone out from the Unity of the Truth and Light, by which we have been cal<g ref="char:EOLhyphen"/>led and gathered into one Chriſt Jeſus, the Head over all his bleſſed for ever: Whoſe Name hath been greatly diſhonoured by many wilde Actings, and his Innocent Spirit grieved, and many ſim<g ref="char:EOLhyphen"/>ple Souls deceived, many oppreſſed, and many offended againſt the Truth; for which work my Soul hath been much troubled: Who to this day raven about from place to place amongſt the People of God, ſeeking to enter where they can, ſo to ſtrengthen themſelves into parties, to trouble ſuch as they cannot enter, ſeeking to ſpoil the pleaſant Paſture of the Lambs, that
+<pb n="2" facs="tcp:168646:3"/>
+they ſhould not feed in Peace; and for that end, haunt after the meetings of the People of God. All which Practiſes and pretenſes, I de<g ref="char:EOLhyphen"/>ny in my Soul, and the Spirit that acts there<g ref="char:EOLhyphen"/>in.</p>
+            <p>And the more it lyes upon me, from the Lord to warn the ſimple innocent ones of his thereof openly, in that through me theſe Spirits have got much head and entrance into the mindes of ſome who were ſimple towards Gods Truth: And this the Envious One hath done, in the Night of my tryall, and hour of Darkneſſe and Temptation, taking advantage of my ſufferings, in the day when my Judgement was taken away, and led captive under the power of Darkneſſe, which all along hath ſought my life, had not the Father held, and with his hand upon me, ſtayed me in thoſe great Temptations, to whom alone I give the glory of my Deliverance from that great deſtruction, as his promiſe was to me be<g ref="char:EOLhyphen"/>fore I came into that tryall, who alſo hath brought me up again, and hath given me to ſee thoſe Evil Spirits; and that the work of the Murtherer and Devourer is therein, againſt the life of God in his Temple: Which, though they ſeek entrance under pretenſe of Humility, pro<g ref="char:EOLhyphen"/>miſing ſome great things, and more holineſſe in that way, to ſteal into ſimple mindes, yet being got in, exalts himſelf above the Seed of God, and tramples the meek Spirit under foot, and ſo darkens the Veſſels, and being exalted in the
+<pb n="3" facs="tcp:168646:3"/>
+openings of the Imaginations, leads the Crea<g ref="char:EOLhyphen"/>ture as God above that of God, and ſo againſt that of God, he warres in others, where God is above.</p>
+            <p>And this myſtery of deep in quity hath the Lord God in the ſpirit of the Lamb revealed unto me, whoſe powerfull working I have felt, working in me above the pure meaſure and unſpotted life of God. And alſo in the ſimplicity of Jeſus Chriſt, I had given up my body all along a Free Offering to the will of God in Life or Death, for the Seeds ſake yet ungathered in the World (as God know<g ref="char:EOLhyphen"/>eth I lye not) yet could I often feel that Exalted One above, ſecretly tempting to envy againſt the people of God already gathered, pretending ano<g ref="char:EOLhyphen"/>ther thing to come ſome other way. But this was ever judged the life of God alſo. I was often buffered therewith, ſometimes ſo ſtrongly as to force words from me above the meek and lowly principle, all which words were ſoon judged with the ſufferer which lay under, and with his life be they condemned for ever, and this lyeth upon me to declare openly, which God hath revealed unto me, for the ſake of the ſimple ones, who may be deceived therewith, but would not did they know his ſubtilty.</p>
+            <p>And by this you ſhall all perceive that Spirit, whatever it pretends, it will ſecretly withdraw your entire love from the Flock of God, alrea<g ref="char:EOLhyphen"/>dy gathered, and cool your affections and zeal
+<pb n="4" facs="tcp:168646:4"/>
+towards their preſent meetings, and if you judge it not there, it will grow on with an evill eye, to ſpie out for their failings, and to delight to hear of them with an hidden joy, whiſpering them to others, and adding thereunto, with a deſire to ſee them broken, and their nakednſs layed open, if any thing be amiſſe.</p>
+            <p>And thus it hath wrought in a myſtery of wickedneſſe in ſome unjudged, untill it be ſeated in the Throne of open enmity and ſtrife againſt the Lambs of Light, preferring the ſociety of the prophane before them, and taking part there<g ref="char:EOLhyphen"/>with againſt them, joyning to any who ſeek to ſcatter them.</p>
+            <p>And whatever pretenſe this Spirit covers it ſelf with, this I declare againſt it, having been kept by the good hand of God, to ſee it revealed in its ground and end, that it is the old ſpirit of the <hi>Ranters,</hi> which now in a new way make head a<g ref="char:EOLhyphen"/>gainſt the Light of Chriſt and life of the Croſs, which is the only thing which ſtands in its way, by condemning its filthineſſe in every Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>And ſo they, in whom this is entred, being exalted above the living Witneſſe in themſelves, would devoure it in others, and this in the pre<g ref="char:EOLhyphen"/>ſence and fear of God I declare, without the leaſt prejudice againſt any man or woman, but in obe<g ref="char:EOLhyphen"/>dience to God, and for his Seeds ſake, leſt any
+<pb n="5" facs="tcp:168646:4"/>
+more of the ſimple ſhould be deceived, and that ſuch as are deceived already may recover them<g ref="char:EOLhyphen"/>ſelves out of Satans ſnares, having no ſelfiſh end therein, God knowes.</p>
+            <p>And long time hath my ſoul travailed, ere I could obtain power herein (ſo ſtrongly hath he that letteth withſtood my way) and therefore in the bowels of tender love I warn you all, to take heed how ever you come under that Spirit under what pretenſe ſoever, but let the fear of God and ſound judgement in the ſpirit of meekneſſe pre<g ref="char:EOLhyphen"/>ſerve you all above it, for whereſoever it enters by conſent, it is hard to be got out again, and if it be, it is not without much ſorrow. And this I have found in the depth, which for your ſakes I declare in plainneſſe and in truth, as I have learned of the Lord, labouring with him without ceaſing, that the reſt of the people of God every where may be ſaved from this De<g ref="char:EOLhyphen"/>vourer, who daily goeth about to deceive, and whoſoever he takes he caſteth into the earth and into the ſea; for wichedneſſe is with him where<g ref="char:EOLhyphen"/>ſoever he goes.</p>
+            <p>Even the Lord God almighty arm you all a<g ref="char:EOLhyphen"/>gainſt his wiles, being warned thereof in his love, and the eternall power of Holineſſe preſerve you all clean to himſef, who are dearer to me then ever, and that in no other thing but that innocent Principle in which you were kept free from all the pollutions of the world, and fleſhly liberty, and
+<pb n="6" facs="tcp:168646:5"/>
+doe ſtand Witneſſes for God againſt it before all men, and in no other thing have I fellowſhip with any, which is that I ſeek to ſet up above all.</p>
+            <p>And this I was moved to give forth, to goe eve<g ref="char:EOLhyphen"/>ry where a witneſſe againſt that unclean ſpirit wherever it goes, feeling its work is to run to and fro to deceive, and that all may be warned by what I have learned in Suffering; and that they that will not may be left without excuſe.</p>
+            <closer>
+               <signed>James Nailor.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
